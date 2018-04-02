@@ -23,10 +23,13 @@ class ArticleController
     }
 
     /**
-     * @Route("/news/fuego")
+     * @Route("/news/{slug}")
      */
-    public function show()
+    public function show($slug)
     {
-        return new Response('aici se va afisa evenimentul');
+        return new Response(sprintf(
+            'aici se va afisa evenimentul: %s',
+            $slug
+        ));
     }
 }

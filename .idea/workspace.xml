@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="974c98f3-85c9-470f-be3c-1a04c602061c" name="Default" comment="" />
+    <list default="true" id="974c98f3-85c9-470f-be3c-1a04c602061c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Controller/ArticleController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ArticleController.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +28,8 @@
       <file leaf-file-name="ArticleController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Controller/ArticleController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+            <state relative-caret-position="204">
+              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
               <folding>
                 <element signature="e#6#100#0#PHP" expanded="true" />
                 <element signature="e#130#189#0#PHP" expanded="true" />
@@ -178,7 +180,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522653372078</updated>
-      <workItem from="1522653373326" duration="2294000" />
+      <workItem from="1522653373326" duration="3625000" />
     </task>
     <task id="LOCAL-00001" summary="Instalare annotations.">
       <created>1522655516909</created>
@@ -194,11 +196,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522655533339</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Instalare annotations.">
+      <created>1522655771445</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1522655771445</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2294000" />
+    <option name="totallyTimeSpent" value="3625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="707" extended-state="0" />
@@ -254,8 +263,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Controller/ArticleController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        <state relative-caret-position="204">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
           <folding>
             <element signature="e#6#100#0#PHP" expanded="true" />
             <element signature="e#130#189#0#PHP" expanded="true" />

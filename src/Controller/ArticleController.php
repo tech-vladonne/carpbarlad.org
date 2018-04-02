@@ -21,4 +21,12 @@ class ArticleController
     {
         return new Response('test');
     }
+
+    /**
+     * @Route("/news/fuego")
+     */
+    public function show()
+    {
+        return new Response('aici se va afisa evenimentul');
+    }
 }
